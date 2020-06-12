@@ -1,0 +1,2 @@
+jojo = "cool"
+print(jojo)
