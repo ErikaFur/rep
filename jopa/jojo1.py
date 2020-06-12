@@ -1,4 +1,4 @@
 jojo = "not cool"
 print(jojo)
-jojo2 = 123
+jojo2 = 0
 print(jojo2)
