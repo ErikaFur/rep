@@ -1,2 +1,2 @@
-jojo = "cool"
+jojo = "not cool"
 print(jojo)
